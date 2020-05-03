@@ -1,0 +1,3 @@
+# Project exclude paths
+/hellospring/target/
+/spring-study-ioc-1/target/
